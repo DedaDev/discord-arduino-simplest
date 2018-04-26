@@ -11,3 +11,5 @@ How to run:
 5. NODE server.js
 
 Enjoy :)
+
+[![control arduino over discord](https://img.youtube.com/vi/b8dSoVmVxyw/0.jpg)](https://www.youtube.com/watch?v=b8dSoVmVxyw)
