@@ -1,7 +1,8 @@
 # Control arduino with discord bot - simplest (Node.js)
 Simplest way to control arduino with discord bot.
 
-#How to run:
+##How to run:
+
 1. Download project or `git clone`
 2. Insert your bot token at 12. line of `server.js` file
 3. run `npm install`
