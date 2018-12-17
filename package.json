@@ -1,0 +1,29 @@
+{
+  "name": "discord-arduino-simplest",
+  "version": "1.0.0",
+  "description": "Simplest way of controling arduino over Discord.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DedaDev/discord-arduino-simplest.git"
+  },
+  "keywords": [
+    "arduino",
+    "discord.js",
+    "discord"
+  ],
+  "author": "DedaDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DedaDev/discord-arduino-simplest/issues"
+  },
+  "homepage": "https://github.com/DedaDev/discord-arduino-simplest#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "johnny-five": "^1.0.0"
+  }
+}

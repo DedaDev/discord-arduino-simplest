@@ -1,15 +1,11 @@
-# Control arduino over discord - simplest
+# Control arduino with discord bot - simplest (Node.js)
 Simplest way to control arduino with discord bot.
 
-Writen in JS for NodeJS.
-
-How to run:
-1. Download files or git clone
-2. Insert your bot token in 15. line
-3. npm install discord.js & npm install johnny-five
+#How to run:
+1. Download project or `git clone`
+2. Insert your bot token at 12. line of `server.js` file
+3. run `npm install`
 4. Connect your arduino with USB
-5. NODE server.js
+5. Start `server.js` with node
 
-Enjoy :)
-
-[![control arduino over discord](https://img.youtube.com/vi/b8dSoVmVxyw/0.jpg)](https://www.youtube.com/watch?v=b8dSoVmVxyw)
+Write into discord channel visible to bot commands `led off` to turn off built in led light or `led on` to turn it on.
