@@ -1,4 +1,4 @@
-# Control an arduino with discord bot - simplest (Node.js)
+# Control an arduino with discord bot - the easiest (Node.js)
 Simplest way to control arduino with discord bot.
 
 ## How to run:
